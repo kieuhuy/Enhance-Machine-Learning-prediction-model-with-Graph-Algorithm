@@ -6,20 +6,17 @@ import numpy as np
 import streamlit as st
 
 st.set_page_config(
-    page_title="Hello",
+    page_title="Thesis",
     page_icon="👋",
 )
 
-st.write("# Welcome to Streamlit! 👋")
+st.write("# Welcome to my thesis demo! 👋")
 
 st.sidebar.success("Select a demo above.")
 
 st.markdown(
     """
-    Streamlit is an open-source app framework built specifically for
-    Machine Learning and Data Science projects.
-    **👈 Select a demo from the sidebar** to see some examples
-    of what Streamlit can do!
+    An interactive application that displays the results of my project and provides information on the tools used in it
     ### Want to learn more?
     - Check out [streamlit.io](https://streamlit.io)
     - Jump into our [documentation](https://docs.streamlit.io)
