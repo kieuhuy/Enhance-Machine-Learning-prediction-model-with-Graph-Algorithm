@@ -5,7 +5,8 @@ Final result:
 
 1) ROC curve chart:
    
-![image](https://github.com/kieuhuy/Enhance-Machine-Learning-prediction-model-with-Graph-Algorithm/assets/83636991/a2a09bc3-7495-4ec5-aff6-1cdc83be65f1)
+![image](https://github.com/kieuhuy/Enhance-Machine-Learning-prediction-model-with-Graph-Algorithm/assets/83636991/5a27778c-40b1-407f-9895-e8e190094b60)
+
 
 2) Evaluation metrics:
    
