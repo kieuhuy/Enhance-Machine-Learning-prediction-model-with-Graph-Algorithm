@@ -3,4 +3,9 @@ The main goal of this project is to build the machine learning model to perform 
 
 Final result: 
 
+1) ROC curve chart:
 ![image](https://github.com/kieuhuy/Enhance-Machine-Learning-prediction-model-with-Graph-Algorithm/assets/83636991/a2a09bc3-7495-4ec5-aff6-1cdc83be65f1)
+
+2) Evaluation metrics:
+![image](https://github.com/kieuhuy/Enhance-Machine-Learning-prediction-model-with-Graph-Algorithm/assets/83636991/678769d9-3ca1-468f-8ab8-260a8252e9e7)
+
